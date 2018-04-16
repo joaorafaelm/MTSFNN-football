@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-cartolafc = "*"
+keras = "*"
+matplotlib = "*"
+pandas = "*"
+sklearn = "*"
+tensorflow = "*"
+ipdb = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
